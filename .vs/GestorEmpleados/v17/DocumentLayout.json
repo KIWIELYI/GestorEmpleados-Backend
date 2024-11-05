@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PWA\\GestorEmpleados_Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\pwa\\gestorempleados_examen\\gestorempleados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\pwa\\gestorempleados_examen\\gestorempleados\\models\\respuestadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\models\\respuestadb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\pwa\\gestorempleados_examen\\gestorempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\pwa\\gestorempleados_examen\\gestorempleados\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\pwa\\gestorempleados_examen\\gestorempleados\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\data\\empleadodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|c:\\pwa\\gestorempleados_examen\\gestorempleados\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE74A38-DCD8-419F-B83F-6B735C811363}|GestorEmpleados\\GestorEmpleados.API.csproj|solutionrelative:gestorempleados\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Program.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Program.cs",
+              "ToolTip": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Program.cs",
+              "RelativeToolTip": "GestorEmpleados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:38:09.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\appsettings.json",
+              "RelativeDocumentMoniker": "GestorEmpleados\\appsettings.json",
+              "ToolTip": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\appsettings.json",
+              "RelativeToolTip": "GestorEmpleados\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T20:29:28.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "RelativeToolTip": "GestorEmpleados\\Controllers\\EmpleadoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:27:46.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RespuestaDB.cs",
+              "DocumentMoniker": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Models\\RespuestaDB.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Models\\RespuestaDB.cs",
+              "ToolTip": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Models\\RespuestaDB.cs",
+              "RelativeToolTip": "GestorEmpleados\\Models\\RespuestaDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:21:33.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Models\\Empleado.cs",
+              "ToolTip": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Models\\Empleado.cs",
+              "RelativeToolTip": "GestorEmpleados\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:20:39.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpleadoData.cs",
+              "DocumentMoniker": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Data\\EmpleadoData.cs",
+              "RelativeDocumentMoniker": "GestorEmpleados\\Data\\EmpleadoData.cs",
+              "ToolTip": "C:\\PWA\\GestorEmpleados_Examen\\GestorEmpleados\\Data\\EmpleadoData.cs",
+              "RelativeToolTip": "GestorEmpleados\\Data\\EmpleadoData.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T00:07:07.083Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
